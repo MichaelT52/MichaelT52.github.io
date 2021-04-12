@@ -1,0 +1,54 @@
+hr	{
+	height:2px;
+	border-width:0;
+	color:black;
+	background-color:black;
+}
+
+p	{
+	font-family:Arial;
+}
+
+ul	{
+	font-family:Arial;
+	display: inline-block;
+	*display: inline;
+	zoom: 1;
+}
+
+h1	{
+	font-family:Arial;
+}
+
+h2	{
+	font-family:Arial;
+}
+
+h3	{
+	font-family:Arial;
+}
+
+.EMAIL	{
+	color: blue;
+}
+
+.greytxt	{
+	color: grey;
+}
+
+.listspace	{
+	list-style-type:none;
+}
+
+.leftlist	{
+	float:left;
+}
+
+.rightlist	{
+	float:right;
+	font-weight:normal;
+}
+
+.italicnotes	{
+	margin-top:10px;
+}
